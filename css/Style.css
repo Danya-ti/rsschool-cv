@@ -1,0 +1,131 @@
+*{
+    box-sizing  : border-box;
+    font-family :Arial, Helvetica, sans-serif;
+    font-size   : 17px;
+    line-height : 1.2;
+}
+
+
+
+h1{
+    font-size: 3em;
+    margin: 0; 
+    padding: 0;
+}
+
+h3{
+    font-size: 1.4em;
+}
+
+h4 {
+    font-size : 1.25em;
+    }
+
+body{
+    background-color: bisque;
+}
+
+.container {
+    width        : 1000px;
+    margin-top   : 60px;
+    margin-left  : auto;
+    margin-right : auto;
+}
+
+.main-block {
+    display    : block;
+    width      : 100%;
+}
+
+.header-panel {
+    display    : flex;
+    width      : 80%;
+    color      : #424242;
+    background : linear-gradient(90deg, #ffffff9a 0%, rgb(255, 0, 0) 100%);
+}
+
+.avatar {
+    display       : block;
+    margin        : 0% auto;
+    width         : 65%;
+    border-radius : 0%;
+  }
+
+.header-section {
+    width        : 300px;
+    margin-top   : 10px;
+    margin-left  : 5px;
+    margin-right : 10px;
+  }
+
+  .header2-section {
+    width        : 300px;
+    margin-top   : 100px;
+    margin-left  : -308px;
+    margin-right : 10px;
+  }
+
+  .header3-section {
+    width        : 300px;
+    margin-top   : 100px;
+    margin-left  : 5px;
+    margin-right : 10px;
+  }
+
+  .header-panel li {
+    list-style-type     : none;
+    list-style-position : inside;
+    margin-top          : 5%;
+    margin-bottom       : 2%;
+    margin-left         : -3%;
+  }
+
+  .contact-icon {
+    margin-right : 5%;
+  }
+
+  .main-content {
+    width            : 80%;
+    color            : #464646;
+    background-color : #fff;
+  }
+
+  .main-section {
+  margin-right  : 10%;
+  margin-bottom : 5%;
+  margin-left   : 15%;
+}
+
+.main-header {
+    padding-bottom : 3.3%;
+    border-bottom  : 3px solid;
+    margin-bottom  : 3%;
+  }
+
+  .icon {
+    margin-right : 5%;
+    font-size    : 1.5em;
+  }
+
+  .main-block li {
+    padding : 0 15px 0 0;
+  }
+
+  
+
+  .footer {
+    width: 800px;
+    display         : flex;
+    padding-left    : 5%;
+    padding-right   : 20%;
+    padding-bottom  : 20px;
+    justify-content : space-between;
+    align-items     : center;
+    background      : linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(255, 0, 0) 100%);
+    color           : rgb(0, 0, 0);
+    margin-top: -4%;
+  }
+  
+  .my-github-link {
+    text-decoration : none;
+  }
