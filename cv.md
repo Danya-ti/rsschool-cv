@@ -1,4 +1,3 @@
-## rsschool-cv
 # Daniil Naschinets
 ### Junior Frontend Developer
 ### Contact Information:
