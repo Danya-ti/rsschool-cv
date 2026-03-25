@@ -1,2 +1,1 @@
-# rsschool-cv
-My cv for rsschool in 2026.
+https://danya-ti.github.io/rsschool-cv/
